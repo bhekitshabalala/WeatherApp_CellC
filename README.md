@@ -3,7 +3,7 @@
 A sleek, modern desktop weather app built with **Java Swing**, proudly styled in **Cell C's signature colors**. 🌤️  
 Get real-time weather updates with just a click — whether you're in **Johannesburg**, **Durban**, or typing in your own city!
 
-![WeatherApp Screenshot](weatherapp_preview.png) 
+![WeatherApp Screenshot](screenshot.png) 
 
 ---
 
@@ -58,7 +58,7 @@ Powered by OpenWeatherMap
 
 📸 Screenshot
 
-![WeatherApp Screenshot](weatherapp_preview.png)
+![WeatherApp Screenshot](screenshot.png)
 
 📄 License
 This project is licensed under the MIT License.
